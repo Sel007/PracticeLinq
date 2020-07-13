@@ -1,0 +1,13 @@
+C:\Users\Selina\Desktop\Repos\PracticeLinq\PracticeLinqApp\PracticeLinqConsoleUI\bin\Debug\netcoreapp3.1\PracticeLinqConsoleUI.exe
+C:\Users\Selina\Desktop\Repos\PracticeLinq\PracticeLinqApp\PracticeLinqConsoleUI\bin\Debug\netcoreapp3.1\PracticeLinqConsoleUI.deps.json
+C:\Users\Selina\Desktop\Repos\PracticeLinq\PracticeLinqApp\PracticeLinqConsoleUI\bin\Debug\netcoreapp3.1\PracticeLinqConsoleUI.runtimeconfig.json
+C:\Users\Selina\Desktop\Repos\PracticeLinq\PracticeLinqApp\PracticeLinqConsoleUI\bin\Debug\netcoreapp3.1\PracticeLinqConsoleUI.runtimeconfig.dev.json
+C:\Users\Selina\Desktop\Repos\PracticeLinq\PracticeLinqApp\PracticeLinqConsoleUI\bin\Debug\netcoreapp3.1\PracticeLinqConsoleUI.dll
+C:\Users\Selina\Desktop\Repos\PracticeLinq\PracticeLinqApp\PracticeLinqConsoleUI\bin\Debug\netcoreapp3.1\PracticeLinqConsoleUI.pdb
+C:\Users\Selina\Desktop\Repos\PracticeLinq\PracticeLinqApp\PracticeLinqConsoleUI\obj\Debug\netcoreapp3.1\PracticeLinqConsoleUI.csprojAssemblyReference.cache
+C:\Users\Selina\Desktop\Repos\PracticeLinq\PracticeLinqApp\PracticeLinqConsoleUI\obj\Debug\netcoreapp3.1\PracticeLinqConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Selina\Desktop\Repos\PracticeLinq\PracticeLinqApp\PracticeLinqConsoleUI\obj\Debug\netcoreapp3.1\PracticeLinqConsoleUI.AssemblyInfo.cs
+C:\Users\Selina\Desktop\Repos\PracticeLinq\PracticeLinqApp\PracticeLinqConsoleUI\obj\Debug\netcoreapp3.1\PracticeLinqConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Selina\Desktop\Repos\PracticeLinq\PracticeLinqApp\PracticeLinqConsoleUI\obj\Debug\netcoreapp3.1\PracticeLinqConsoleUI.dll
+C:\Users\Selina\Desktop\Repos\PracticeLinq\PracticeLinqApp\PracticeLinqConsoleUI\obj\Debug\netcoreapp3.1\PracticeLinqConsoleUI.pdb
+C:\Users\Selina\Desktop\Repos\PracticeLinq\PracticeLinqApp\PracticeLinqConsoleUI\obj\Debug\netcoreapp3.1\PracticeLinqConsoleUI.genruntimeconfig.cache
